@@ -68,7 +68,7 @@
       
         }
           
-  .front img{
+  .front mig{
     height: 16.25rem;
     width: 15.6rem;
   }
@@ -89,13 +89,6 @@
     color: black;
   }
 
-  @media(max-width:998px){
-   html{
-    font-size: 55%;
-   }
-  }
-  @media(max-width:768px){
-    html{
-      font-size: 30%;
-    }
-  }
+  
+
+ 
